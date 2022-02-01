@@ -1,0 +1,18 @@
+.work {
+    /*height: 100vh;*/
+    background-color: salmon;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.title {
+    text-align: left;
+}
+.photo {
+    width: 300px;
+    height: 350px;
+    background-color: white;
+}

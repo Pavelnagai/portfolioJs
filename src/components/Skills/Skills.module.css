@@ -1,0 +1,16 @@
+.skills {
+    /*min-height: 100vh;*/
+    background-color: aqua;
+}
+
+.container {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.skill {
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
