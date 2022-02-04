@@ -6,8 +6,8 @@ const WorkHome = () => {
     return (
         <div className={style.workHome}>
             <div className={`${styleContainer.container} ${style.container}`}>
-                <h3>HomeWork in home!!!</h3>
-                <button className={style.button}>Work</button>
+                <h3>Рассматриваю варианты удаленной работы</h3>
+                <button className={style.button}>Нанять</button>
             </div>
         </div>
     );

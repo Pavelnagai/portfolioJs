@@ -7,7 +7,7 @@ const Contacts = () => {
     return (
         <div className={style.contacts}>
             <div className={`${styleContainer.container} ${style.container}`}>
-                <h3>Contacts</h3>
+                <h3>Контакты</h3>
                 <Form/>
                 <button className={style.button}>Отправить</button>
             </div>

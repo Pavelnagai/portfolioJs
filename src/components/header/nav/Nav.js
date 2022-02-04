@@ -4,10 +4,10 @@ import style from './Nav.module.css'
 const Nav = () => {
     return (
         <div className={style.nav}>
-            <a href="">Main</a>
-            <a href="">Work</a>
-            <a href="">Project</a>
-            <a href="">Contacts</a>
+            <a href="">Главная</a>
+            <a href="">Навыки</a>
+            <a href="">Проекты</a>
+            <a href="">Контакты</a>
         </div>
     );
 };

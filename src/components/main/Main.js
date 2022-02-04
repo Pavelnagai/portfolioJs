@@ -5,9 +5,9 @@ const Main = () => {
     return (<div className={style.work}>
             <div className={`${styleContainer.container} ${style.container}`}>
                 <div className={style.title}>
-                    <h3>HELLO! I AM </h3>
-                    <h1> PAVEL NAGAI</h1>
-                    <h3>I frontend developer</h3>
+                    <h3>Привет! Меня зовут</h3>
+                    <h1>Павел Нагай</h1>
+                    <h3>Я frontend разработчик</h3>
                 </div>
                 <div className={style.photo}></div>
             </div>
