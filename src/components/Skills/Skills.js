@@ -8,7 +8,7 @@ const Skills = () => {
     return (
         <div className={style.skills}>
             <div className={`${styleContainer.container} ${style.container}`}>
-                <h2>Навыки</h2>
+                <h2>Skills</h2>
                 <div className={style.skill}>
                     <Skill title={'JS'} text={'I design and develop services for customers of all sizes, specializing' +
                         ' in creating stylish, modern websites, web services and online stores.'}/>
