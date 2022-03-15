@@ -13,17 +13,10 @@
 .inputContainer {
     display: flex;
     align-items: center;
-    width: 500px;
     margin: 10px;
     flex-direction: column;
 }
-.input {
-    width: 300px;
-}
 
-.textarea {
-    width: 300px;
-}
 @media screen and (max-width: 380px) {
     .input {
         width: 200px;

@@ -1,19 +1,20 @@
 import React from 'react';
 import style from './Form.module.css'
+import {Field, reduxForm} from "redux-form";
 
-const Form = () => {
-    return (
-        <div className={style.form}>
-            <div className={style.container}>
-                <div className={style.inputContainer}>
-                    <input className={style.input} type="text" style={{margin:'10px'}}/>
-                    <input className={style.input} type="text" style={{margin:'10px'}}/>
-                </div>
-                    <textarea className={style.textarea} name="" id=""> </textarea>
-            </div>
 
+export const ReduxForm = (props) => {
+return(
+    <form onSubmit={props.handleSubmit}>
+        <div className={style.inputContainer}>
+            <Field name={'email'} placeholder={'email'} component={'input'} />
+            <Field name={'number'} placeholder={'number'} component={'input'} style={{margin: '10px'}}/>
+            <Field name={'description'} placeholder='description' component='textarea'/>
+            <button>Send</button>
         </div>
-    );
-};
-
-export default Form;
+    </form>
+)
+}
+export const ContactsReduxForm = reduxForm({
+    form: 'Contacts'
+})(ReduxForm)
