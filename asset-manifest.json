@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolioJs/static/css/main.e2ec5889.css",
-    "main.js": "/portfolioJs/static/js/main.3c484bd3.js",
+    "main.css": "/portfolioJs/static/css/main.c4324789.css",
+    "main.js": "/portfolioJs/static/js/main.4efd35a1.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolioJs/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Main.module.jpg": "/portfolioJs/static/media/Main.module.c91b7f5b7efad3a455a2.jpg",
-    "static/media/png-clipart-vkontakte-logo-facebook-messenger-computer-icons-facebook-blue-logo.png": "/portfolioJs/static/media/png-clipart-vkontakte-logo-facebook-messenger-computer-icons-facebook-blue-logo.4ac53d547d63db17ec61.png",
-    "static/media/vaiber.png": "/portfolioJs/static/media/vaiber.4631c6ff5e941c154653.png",
+    "static/media/social.png": "/portfolioJs/static/media/social.8b4c4a3dd4996e8322a7.png",
+    "static/media/todolist.jpg": "/portfolioJs/static/media/todolist.5d70f90792f64201ac2c.jpg",
+    "static/media/avatar.jpeg": "/portfolioJs/static/media/avatar.f609b1a32b4839ee108a.jpeg",
     "index.html": "/portfolioJs/index.html",
-    "main.e2ec5889.css.map": "/portfolioJs/static/css/main.e2ec5889.css.map",
-    "main.3c484bd3.js.map": "/portfolioJs/static/js/main.3c484bd3.js.map",
+    "main.c4324789.css.map": "/portfolioJs/static/css/main.c4324789.css.map",
+    "main.4efd35a1.js.map": "/portfolioJs/static/js/main.4efd35a1.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolioJs/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2ec5889.css",
-    "static/js/main.3c484bd3.js"
+    "static/css/main.c4324789.css",
+    "static/js/main.4efd35a1.js"
   ]
 }
