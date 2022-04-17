@@ -1,0 +1,32 @@
+.App {
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+
+
+  .data {
+    width: 56%;
+    min-height: 100vh;
+    position: relative;
+    overflow-x: hidden;
+    transition: all .5s ease;
+  }
+
+  .image {
+    width: 44%;
+    min-height: 100vh;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-left: 1px solid rgba(255,255,255,.2);
+    transition: all .5s ease;
+    box-sizing: border-box;
+
+  }
+}
+
+
+

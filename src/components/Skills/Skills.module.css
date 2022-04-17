@@ -1,19 +1,19 @@
 .skills {
-    /*min-height: 100vh;*/
-    background-color: aqua;
+
 }
 
 .container {
     flex-direction: column;
     justify-content: flex-start;
-    align-items: center;
 }
 
 .skill {
-    flex-wrap: wrap;
-    width: 100%;
+    /*flex-wrap: wrap;*/
+    /*width: 100%;*/
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    /*justify-content: space-evenly;*/
 }
 @media screen and (max-width: 750px){
     .skill{

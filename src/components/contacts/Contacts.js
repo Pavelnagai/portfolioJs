@@ -1,18 +1,18 @@
 import React from 'react';
 import style from './Contacts.module.css'
 import styleContainer from "../../common/styles/Container.module.css";
-import {ContactsReduxForm} from "./form/Form";
+import SignupForm from "./form/Formik";
+import WorkHome from "../workHome/WorkHome";
+import Title from "../../access/title/Title";
 
 const Contacts = (props) => {
-    const onSubmit = (formData) => {
-        console.log(formData.description, formData.email, formData.number)
-        console.log(formData)
-    }
     return (
         <div className={style.contacts}>
+            <WorkHome/>
             <div className={`${styleContainer.container} ${style.container}`}>
-                <h3>Contacts</h3>
-                <ContactsReduxForm onSubmit={onSubmit}/>
+                <Title title="Contacts"/>
+
+                <SignupForm/>
             </div>
         </div>
     );

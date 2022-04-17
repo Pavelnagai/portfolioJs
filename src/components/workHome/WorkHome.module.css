@@ -1,11 +1,9 @@
 .workHome {
     height: 70vh;
-    background-color: beige;
     justify-content: center;
 }
 
 .container {
-    /*border: 1px solid;*/
     display: flex;
     flex-direction: column;
     justify-content: flex-start;

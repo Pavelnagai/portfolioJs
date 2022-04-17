@@ -1,0 +1,18 @@
+@import "../sass/mixins";
+@import "../sass/variable";
+
+.title {
+  @include text(18px, 1.2, 1px, $textTitleBlock);
+  position: relative;
+
+  //&::before {
+  //  content: '';
+  //  position: absolute;
+  //  background-color: $textTitleBlock;
+  //  width: 100px;
+  //  height: 1px;
+  //  bottom: -20px;
+  //  left: 50%;
+  //  transform: translate(-50%, 50%);
+  //}
+}

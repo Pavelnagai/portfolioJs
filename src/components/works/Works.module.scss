@@ -1,0 +1,33 @@
+@import "../../access/sass/variable";
+@import "../../access/sass/mixins";
+
+.works {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+
+  .container {
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+
+
+    .work {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      //background: #151412;
+      @media screen and (max-width: 750px) {
+        justify-content: center;
+      }
+    }
+  }
+}
+
+
+
+
+
