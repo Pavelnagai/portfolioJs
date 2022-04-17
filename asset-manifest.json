@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolioJs/static/css/main.c4324789.css",
-    "main.js": "/portfolioJs/static/js/main.4efd35a1.js",
+    "main.css": "/portfolioJs/static/css/main.f2c20722.css",
+    "main.js": "/portfolioJs/static/js/main.42d6d92a.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolioJs/static/js/787.28cb0dcd.chunk.js",
     "static/media/social.png": "/portfolioJs/static/media/social.8b4c4a3dd4996e8322a7.png",
     "static/media/todolist.jpg": "/portfolioJs/static/media/todolist.5d70f90792f64201ac2c.jpg",
     "static/media/avatar.jpeg": "/portfolioJs/static/media/avatar.f609b1a32b4839ee108a.jpeg",
+    "static/media/react-brands.svg": "/portfolioJs/static/media/react-brands.b9ee6e1d0ee75ee94813aabb411b463d.svg",
+    "static/media/viber-brands.svg": "/portfolioJs/static/media/viber-brands.850d6ff0da9dc7847696489b4e1537d8.svg",
+    "static/media/telegram-brands.svg": "/portfolioJs/static/media/telegram-brands.c208724dca7f92039867182af7fae06d.svg",
     "index.html": "/portfolioJs/index.html",
-    "main.c4324789.css.map": "/portfolioJs/static/css/main.c4324789.css.map",
-    "main.4efd35a1.js.map": "/portfolioJs/static/js/main.4efd35a1.js.map",
+    "static/media/js-brands.svg": "/portfolioJs/static/media/js-brands.849ab271da269656ee7d884b34d5ebce.svg",
+    "static/media/linkedin-brands.svg": "/portfolioJs/static/media/linkedin-brands.f2f7d420f8ec14109e65abad03b5f32c.svg",
+    "static/media/html5-brands.svg": "/portfolioJs/static/media/html5-brands.280fcec471ee0f3842bcb8ff7c9bbf23.svg",
+    "static/media/css3-brands.svg": "/portfolioJs/static/media/css3-brands.25d1cad0688bb6a95e66592b95154bc9.svg",
+    "main.f2c20722.css.map": "/portfolioJs/static/css/main.f2c20722.css.map",
+    "main.42d6d92a.js.map": "/portfolioJs/static/js/main.42d6d92a.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolioJs/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4324789.css",
-    "static/js/main.4efd35a1.js"
+    "static/css/main.f2c20722.css",
+    "static/js/main.42d6d92a.js"
   ]
 }
